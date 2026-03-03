@@ -3,7 +3,7 @@
  */
 module.exports = {
   // 谷歌广告
-  ADSENSE_GOOGLE_ID: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_ID || 'ca-pub-1990364292853526', // 谷歌广告ID e.g ca-pub-xxxxxxxxxxxxxxxx<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=   ca-pub-1990364292853526"
+  ADSENSE_GOOGLE_ID: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_ID || '1990364292853526', // 谷歌广告ID e.g ca-pub-xxxxxxxxxxxxxxxx<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=   ca-pub-1990364292853526"
      crossorigin="anonymous"></script>
   ADSENSE_GOOGLE_TEST: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_TEST || false, // 谷歌广告ID测试模式，这种模式获取假的测试广告，用于开发 https://www.tangly1024.com/article/local-dev-google-adsense
   ADSENSE_GOOGLE_SLOT_IN_ARTICLE:
