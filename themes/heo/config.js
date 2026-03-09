@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: '777682.xyz',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '00000000000',
+  HEO_HERO_TITLE_5: '6',
   HEO_HERO_TITLE_LINK: 'https://777682.xyz',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
