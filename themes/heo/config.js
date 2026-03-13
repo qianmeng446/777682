@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '广告位', url: 'https://777682.xyz' },
+    { title: '每月来领一次支付宝红包', url: 'https://777682.xyz/2026-3-14/afbhb' },
     //{ title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' },可以在加东西是滚动的
   ],
 
